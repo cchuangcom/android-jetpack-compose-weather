@@ -1,0 +1,9 @@
+<resources>
+    <string name="api_key">00000000000000000000000000000000</string>
+    <string name="app_name">WeatherForecastDemo</string>
+    <string name="current_day">Current Day</string>
+    <string name="week_forecast">Week Forecast</string>
+    <string name="location">Location</string>
+    <string name="weather">Weather</string>
+    <string name="temperature">Temperature</string>
+</resources>
