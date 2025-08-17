@@ -5,7 +5,6 @@ This Android application is designed to fetch and display weather forecast using
 <img width="320" height="714" alt="Screenshot_20250817_161057" src="https://github.com/user-attachments/assets/279c41d2-3997-4c06-9a92-e9f168f13b12" />
 <img width="320" height="714" alt="Screenshot_20250817_161413" src="https://github.com/user-attachments/assets/11d2fc2b-695e-470a-9a4a-6f97e46dbb08" />
 <img width="320" height="714" alt="Screenshot_20250817_161348" src="https://github.com/user-attachments/assets/bc22749d-91fa-4dd4-a4c2-cc6605c0d5bb" />
-<img width="320" height="714" alt="Screenshot_20250817_161401" src="https://github.com/user-attachments/assets/d9b5fad4-d2e2-432b-a035-6819a4deb9a8" />
 <br>
 <H1>Setup</H1>
 Go to https://openweathermap.org/ to get your api key and add it to strings.xml -> api_key
