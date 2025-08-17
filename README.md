@@ -1,5 +1,5 @@
 <H1>Weather Forecast App</H1>
-This Android application is designed to fetch and display weather forecast using Jetpack Compose, following the MVVM architecture. It integrates OKhttp for network operations, Coroutines for asynchronous tasks.
+This Android application is designed to fetch and display weather forecast using Jetpack Compose, following the MVVM architecture. It integrates OKHttp for network operations, Coroutines for asynchronous tasks.
 <br>
 <H1>Screenshot</H1>
 <img width="320" height="714" alt="Screenshot_20250817_161057" src="https://github.com/user-attachments/assets/279c41d2-3997-4c06-9a92-e9f168f13b12" />
